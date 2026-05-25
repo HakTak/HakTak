@@ -99,7 +99,7 @@ I believe the most resilient software is decentralized, verifiable, and gives us
 
 ## Featured Projects
 
-### 🔐 Sentinel PKI & Zero-Knowledge Password Vault | *2025* | [Frontend](https://github.com/HakTak/BSEP---2025-Projekat-frontend) · [Backend](https://github.com/HakTak/BSEP---2025-Projekat-backend)
+### 🔐 PKI & Zero-Knowledge Password Vault | *2025* | [Frontend](https://github.com/HakTak/BSEP---2025-Projekat-frontend) · [Backend](https://github.com/HakTak/BSEP---2025-Projekat-backend)
 `Java` `Spring Boot` `React` `PostgreSQL` `JWT` `Keycloak` `Auth0` `X.509` `BouncyCastle` `HTTPS/TLS`
 
 A full **Public Key Infrastructure** supporting Root, Intermediate, and End-Entity certificate issuance with complete chain validation, CRL/OCSP revocation, and role-based access control (Admin, CA User, End-Entity). The standout feature is a **zero-knowledge encrypted password manager** where all cryptographic operations happen exclusively client-side via the Web Crypto API, the private key never touches the server. Secrets can be shared across users through per-recipient asymmetric encryption. Secured with reCAPTCHA, 2FA, audit logging, and hardened against XSS and SQL injection. *Group project (3 students).*

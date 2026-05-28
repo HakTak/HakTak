@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/GitHub-HakTak-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <!-- TODO: Zameniti # sa pravim linkom do tvog CV-a kada ga napravis (npr. GitHub Pages, Google Drive, itd.) -->
-  <a href="#">
+  
+  <a href="https://haktak.github.io/cv/Miloš_Medić_CV.pdf">
     <img src="https://img.shields.io/badge/CV-Download-7A8C5E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
   </a>
 </p>
@@ -173,8 +173,8 @@ If you're building something that makes people's lives genuinely better, or just
 
 [![Email](https://img.shields.io/badge/Email-katek.m526%40gmail.com-7A8C5E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katek.m526@gmail.com)
 &nbsp;
-<!-- TODO: Zameniti # sa linkom do CV-a kada ga napravis -->
-[![CV](https://img.shields.io/badge/CV-View_Full_Resume-7A8C5E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
+
+[![CV](https://img.shields.io/badge/CV-View_Full_Resume-7A8C5E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://haktak.github.io/cv/)
 
 </div>
 

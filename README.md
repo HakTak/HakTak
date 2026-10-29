@@ -23,7 +23,7 @@
 
 ## About Me
 
-Final-year **Computer Science & Engineering** student at the **Faculty of Technical Sciences (FTN), Novi Sad**, specializing in Applied Computer Science & Informatics, currently completing my thesis with a **9.57/10 GPA** and ranking in the **top 3% of my class**.
+Final-year **Computer Science & Engineering** student at the **Faculty of Technical Sciences (FTN), Novi Sad**, specializing in Applied Computer Science & Informatics, currently completing my thesis with a **9.58/10 GPA** and ranking in the **top 3% of my class**.
 
 I'm drawn to software that's secure, meaningful, and within reach of as many people as possible. Reducing bureaucracy, protecting privacy, and understanding systems at a fundamental level, that's what drives me.
 
